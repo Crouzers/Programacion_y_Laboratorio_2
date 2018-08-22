@@ -1,0 +1,7 @@
+D:\##BUSTAMANTE\fasjkf\Bustamante.Francisco.2A\EjercicioClase02\bin\Debug\EjercicioClase02.exe.config
+D:\##BUSTAMANTE\fasjkf\Bustamante.Francisco.2A\EjercicioClase02\bin\Debug\EjercicioClase02.exe
+D:\##BUSTAMANTE\fasjkf\Bustamante.Francisco.2A\EjercicioClase02\bin\Debug\EjercicioClase02.pdb
+D:\##BUSTAMANTE\fasjkf\Bustamante.Francisco.2A\EjercicioClase02\obj\Debug\EjercicioClase02.csprojAssemblyReference.cache
+D:\##BUSTAMANTE\fasjkf\Bustamante.Francisco.2A\EjercicioClase02\obj\Debug\EjercicioClase02.csproj.CoreCompileInputs.cache
+D:\##BUSTAMANTE\fasjkf\Bustamante.Francisco.2A\EjercicioClase02\obj\Debug\EjercicioClase02.exe
+D:\##BUSTAMANTE\fasjkf\Bustamante.Francisco.2A\EjercicioClase02\obj\Debug\EjercicioClase02.pdb
