@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace Ejercicio00
 {
-    class Program
+    class Ejercicio_00
     {
         static void Main(string[] args)
         {
+            Console.Title ="Ejercicio Nro 00";
             string name;
             int age;
 

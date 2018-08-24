@@ -5,3 +5,10 @@ D:\VisualStudio\Bustamante.Francisco.2A\Ejercicio00\obj\Debug\Ejercicio00.csproj
 D:\VisualStudio\Bustamante.Francisco.2A\Ejercicio00\obj\Debug\Ejercicio00.csproj.CoreCompileInputs.cache
 D:\VisualStudio\Bustamante.Francisco.2A\Ejercicio00\obj\Debug\Ejercicio00.exe
 D:\VisualStudio\Bustamante.Francisco.2A\Ejercicio00\obj\Debug\Ejercicio00.pdb
+D:\##Bustamante\Programacion_y_Laboratorio_2\Ejercicio00\bin\Debug\Ejercicio00.exe.config
+D:\##Bustamante\Programacion_y_Laboratorio_2\Ejercicio00\bin\Debug\Ejercicio00.exe
+D:\##Bustamante\Programacion_y_Laboratorio_2\Ejercicio00\bin\Debug\Ejercicio00.pdb
+D:\##Bustamante\Programacion_y_Laboratorio_2\Ejercicio00\obj\Debug\Ejercicio00.csprojAssemblyReference.cache
+D:\##Bustamante\Programacion_y_Laboratorio_2\Ejercicio00\obj\Debug\Ejercicio00.csproj.CoreCompileInputs.cache
+D:\##Bustamante\Programacion_y_Laboratorio_2\Ejercicio00\obj\Debug\Ejercicio00.exe
+D:\##Bustamante\Programacion_y_Laboratorio_2\Ejercicio00\obj\Debug\Ejercicio00.pdb
