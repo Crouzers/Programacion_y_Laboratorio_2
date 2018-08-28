@@ -14,10 +14,14 @@ namespace EjercicioClase02
             Sello.mensaje = "Franas";
 
             Console.WriteLine(Sello.Imprimir());
-            //Sello.Borrar();
+            
+            
             Console.WriteLine("---------");
             Sello.ImprimirEnColor();
             Console.WriteLine("---------");
+            Console.WriteLine(Sello.Imprimir());
+            Console.WriteLine("---------");
+            Sello.Borrar();
             Console.WriteLine(Sello.Imprimir());
 
             Console.ReadLine();

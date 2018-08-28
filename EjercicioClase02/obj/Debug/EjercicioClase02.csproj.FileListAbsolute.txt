@@ -5,3 +5,10 @@ D:\##BUSTAMANTE\fasjkf\Bustamante.Francisco.2A\EjercicioClase02\obj\Debug\Ejerci
 D:\##BUSTAMANTE\fasjkf\Bustamante.Francisco.2A\EjercicioClase02\obj\Debug\EjercicioClase02.csproj.CoreCompileInputs.cache
 D:\##BUSTAMANTE\fasjkf\Bustamante.Francisco.2A\EjercicioClase02\obj\Debug\EjercicioClase02.exe
 D:\##BUSTAMANTE\fasjkf\Bustamante.Francisco.2A\EjercicioClase02\obj\Debug\EjercicioClase02.pdb
+D:\##BUSTAMANTE\Programacion_y_Laboratorio_2\EjercicioClase02\bin\Debug\EjercicioClase02.exe.config
+D:\##BUSTAMANTE\Programacion_y_Laboratorio_2\EjercicioClase02\bin\Debug\EjercicioClase02.exe
+D:\##BUSTAMANTE\Programacion_y_Laboratorio_2\EjercicioClase02\bin\Debug\EjercicioClase02.pdb
+D:\##BUSTAMANTE\Programacion_y_Laboratorio_2\EjercicioClase02\obj\Debug\EjercicioClase02.csprojAssemblyReference.cache
+D:\##BUSTAMANTE\Programacion_y_Laboratorio_2\EjercicioClase02\obj\Debug\EjercicioClase02.csproj.CoreCompileInputs.cache
+D:\##BUSTAMANTE\Programacion_y_Laboratorio_2\EjercicioClase02\obj\Debug\EjercicioClase02.exe
+D:\##BUSTAMANTE\Programacion_y_Laboratorio_2\EjercicioClase02\obj\Debug\EjercicioClase02.pdb
