@@ -1,0 +1,7 @@
+D:\##BUSTAMANTE\PRogramacion_y_Laboratorio_2\EjercicioClase04\obj\Debug\EjercicioClase04.csprojAssemblyReference.cache
+D:\##BUSTAMANTE\PRogramacion_y_Laboratorio_2\EjercicioClase04\obj\Debug\EjercicioClase04.csproj.CoreCompileInputs.cache
+D:\##BUSTAMANTE\PRogramacion_y_Laboratorio_2\EjercicioClase04\bin\Debug\EjercicioClase04.exe.config
+D:\##BUSTAMANTE\PRogramacion_y_Laboratorio_2\EjercicioClase04\bin\Debug\EjercicioClase04.exe
+D:\##BUSTAMANTE\PRogramacion_y_Laboratorio_2\EjercicioClase04\bin\Debug\EjercicioClase04.pdb
+D:\##BUSTAMANTE\PRogramacion_y_Laboratorio_2\EjercicioClase04\obj\Debug\EjercicioClase04.exe
+D:\##BUSTAMANTE\PRogramacion_y_Laboratorio_2\EjercicioClase04\obj\Debug\EjercicioClase04.pdb

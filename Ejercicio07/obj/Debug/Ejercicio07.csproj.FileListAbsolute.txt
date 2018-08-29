@@ -1,0 +1,7 @@
+D:\##BUSTAMANTE\PRogramacion_y_Laboratorio_2\Ejercicio07\bin\Debug\Ejercicio07.exe.config
+D:\##BUSTAMANTE\PRogramacion_y_Laboratorio_2\Ejercicio07\bin\Debug\Ejercicio07.exe
+D:\##BUSTAMANTE\PRogramacion_y_Laboratorio_2\Ejercicio07\bin\Debug\Ejercicio07.pdb
+D:\##BUSTAMANTE\PRogramacion_y_Laboratorio_2\Ejercicio07\obj\Debug\Ejercicio07.csprojAssemblyReference.cache
+D:\##BUSTAMANTE\PRogramacion_y_Laboratorio_2\Ejercicio07\obj\Debug\Ejercicio07.csproj.CoreCompileInputs.cache
+D:\##BUSTAMANTE\PRogramacion_y_Laboratorio_2\Ejercicio07\obj\Debug\Ejercicio07.exe
+D:\##BUSTAMANTE\PRogramacion_y_Laboratorio_2\Ejercicio07\obj\Debug\Ejercicio07.pdb
