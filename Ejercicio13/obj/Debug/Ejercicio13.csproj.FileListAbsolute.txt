@@ -1,0 +1,11 @@
+C:\##Bustamante\Programacion_y_Laboratorio_2\Ejercicio13\bin\Debug\Ejercicio13.exe.config
+C:\##Bustamante\Programacion_y_Laboratorio_2\Ejercicio13\bin\Debug\Ejercicio13.exe
+C:\##Bustamante\Programacion_y_Laboratorio_2\Ejercicio13\bin\Debug\Ejercicio13.pdb
+C:\##Bustamante\Programacion_y_Laboratorio_2\Ejercicio13\bin\Debug\Ejercicio12.exe
+C:\##Bustamante\Programacion_y_Laboratorio_2\Ejercicio13\bin\Debug\Ejercicio12.pdb
+C:\##Bustamante\Programacion_y_Laboratorio_2\Ejercicio13\bin\Debug\Ejercicio12.exe.config
+C:\##Bustamante\Programacion_y_Laboratorio_2\Ejercicio13\obj\Debug\Ejercicio13.csprojAssemblyReference.cache
+C:\##Bustamante\Programacion_y_Laboratorio_2\Ejercicio13\obj\Debug\Ejercicio13.csproj.CoreCompileInputs.cache
+C:\##Bustamante\Programacion_y_Laboratorio_2\Ejercicio13\obj\Debug\Ejercicio13.csproj.CopyComplete
+C:\##Bustamante\Programacion_y_Laboratorio_2\Ejercicio13\obj\Debug\Ejercicio13.exe
+C:\##Bustamante\Programacion_y_Laboratorio_2\Ejercicio13\obj\Debug\Ejercicio13.pdb
