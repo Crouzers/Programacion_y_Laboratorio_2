@@ -1,6 +1,0 @@
-C:\##Bustamante\Programacion_y_Laboratorio_2\Ejercicios09\bin\Debug\Ejercicios09.exe.config
-C:\##Bustamante\Programacion_y_Laboratorio_2\Ejercicios09\bin\Debug\Ejercicios09.exe
-C:\##Bustamante\Programacion_y_Laboratorio_2\Ejercicios09\bin\Debug\Ejercicios09.pdb
-C:\##Bustamante\Programacion_y_Laboratorio_2\Ejercicios09\obj\Debug\Ejercicios09.csproj.CoreCompileInputs.cache
-C:\##Bustamante\Programacion_y_Laboratorio_2\Ejercicios09\obj\Debug\Ejercicios09.exe
-C:\##Bustamante\Programacion_y_Laboratorio_2\Ejercicios09\obj\Debug\Ejercicios09.pdb

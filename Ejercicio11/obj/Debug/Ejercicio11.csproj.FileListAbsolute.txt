@@ -1,0 +1,7 @@
+C:\##Bustamante\Programacion_y_Laboratorio_2\Ejercicio11\bin\Debug\Ejercicio11.exe.config
+C:\##Bustamante\Programacion_y_Laboratorio_2\Ejercicio11\bin\Debug\Ejercicio11.exe
+C:\##Bustamante\Programacion_y_Laboratorio_2\Ejercicio11\bin\Debug\Ejercicio11.pdb
+C:\##Bustamante\Programacion_y_Laboratorio_2\Ejercicio11\obj\Debug\Ejercicio11.csprojAssemblyReference.cache
+C:\##Bustamante\Programacion_y_Laboratorio_2\Ejercicio11\obj\Debug\Ejercicio11.csproj.CoreCompileInputs.cache
+C:\##Bustamante\Programacion_y_Laboratorio_2\Ejercicio11\obj\Debug\Ejercicio11.exe
+C:\##Bustamante\Programacion_y_Laboratorio_2\Ejercicio11\obj\Debug\Ejercicio11.pdb
