@@ -1,0 +1,7 @@
+D:\##BUSTAMANTE\Programacion_y_laboratorio_2\Ejercicio17\bin\Debug\Ejercicio17.exe.config
+D:\##BUSTAMANTE\Programacion_y_laboratorio_2\Ejercicio17\bin\Debug\Ejercicio17.exe
+D:\##BUSTAMANTE\Programacion_y_laboratorio_2\Ejercicio17\bin\Debug\Ejercicio17.pdb
+D:\##BUSTAMANTE\Programacion_y_laboratorio_2\Ejercicio17\obj\Debug\Ejercicio17.csprojAssemblyReference.cache
+D:\##BUSTAMANTE\Programacion_y_laboratorio_2\Ejercicio17\obj\Debug\Ejercicio17.csproj.CoreCompileInputs.cache
+D:\##BUSTAMANTE\Programacion_y_laboratorio_2\Ejercicio17\obj\Debug\Ejercicio17.exe
+D:\##BUSTAMANTE\Programacion_y_laboratorio_2\Ejercicio17\obj\Debug\Ejercicio17.pdb
