@@ -1,0 +1,11 @@
+D:\##BUSTAMANTE\Programacion_y_Laboratorio_2\Clase06\bin\Debug\Clase06.exe.config
+D:\##BUSTAMANTE\Programacion_y_Laboratorio_2\Clase06\bin\Debug\Clase06.exe
+D:\##BUSTAMANTE\Programacion_y_Laboratorio_2\Clase06\bin\Debug\Clase06.pdb
+D:\##BUSTAMANTE\Programacion_y_Laboratorio_2\Clase06\obj\Debug\Clase06.csprojAssemblyReference.cache
+D:\##BUSTAMANTE\Programacion_y_Laboratorio_2\Clase06\obj\Debug\Clase06.Form1.resources
+D:\##BUSTAMANTE\Programacion_y_Laboratorio_2\Clase06\obj\Debug\Clase06.frmTinta.resources
+D:\##BUSTAMANTE\Programacion_y_Laboratorio_2\Clase06\obj\Debug\Clase06.Properties.Resources.resources
+D:\##BUSTAMANTE\Programacion_y_Laboratorio_2\Clase06\obj\Debug\Clase06.csproj.GenerateResource.cache
+D:\##BUSTAMANTE\Programacion_y_Laboratorio_2\Clase06\obj\Debug\Clase06.csproj.CoreCompileInputs.cache
+D:\##BUSTAMANTE\Programacion_y_Laboratorio_2\Clase06\obj\Debug\Clase06.exe
+D:\##BUSTAMANTE\Programacion_y_Laboratorio_2\Clase06\obj\Debug\Clase06.pdb

@@ -1,0 +1,7 @@
+D:\##BUSTAMANTE\Programacion_y_Laboratorio_2\Clase05\bin\Debug\Clase05.exe.config
+D:\##BUSTAMANTE\Programacion_y_Laboratorio_2\Clase05\bin\Debug\Clase05.exe
+D:\##BUSTAMANTE\Programacion_y_Laboratorio_2\Clase05\bin\Debug\Clase05.pdb
+D:\##BUSTAMANTE\Programacion_y_Laboratorio_2\Clase05\obj\Debug\Clase05-06.csprojAssemblyReference.cache
+D:\##BUSTAMANTE\Programacion_y_Laboratorio_2\Clase05\obj\Debug\Clase05-06.csproj.CoreCompileInputs.cache
+D:\##BUSTAMANTE\Programacion_y_Laboratorio_2\Clase05\obj\Debug\Clase05.exe
+D:\##BUSTAMANTE\Programacion_y_Laboratorio_2\Clase05\obj\Debug\Clase05.pdb

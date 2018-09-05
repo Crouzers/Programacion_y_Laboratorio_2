@@ -16,7 +16,12 @@ namespace Clase05
         #region Metodos
         public static string Mostrar(Tinta tinta)
         {
-            return tinta.Mostrar();
+            string cadena = "fin";
+            if (!(object.Equals(tinta, null)))
+            {
+                cadena = tinta.Mostrar();
+            }
+            return cadena;
         }
 
         private string Mostrar()
@@ -52,18 +57,25 @@ namespace Clase05
         public static bool operator ==(Tinta t1, Tinta t2)
         {
             bool flag = false;
-
-            if ((t1._color == t2._color) && (t1._tinta == t2._tinta))
+            if (!(object.Equals(t1, null)) && !(object.Equals(t2, null)))
             {
-                flag = true;
+                if ((t1._color == t2._color) && (t1._tinta == t2._tinta))
+                {
+                    flag = true;
+                }
             }
-
             return flag;
         }
 
         public static bool operator !=(Tinta t1, Tinta t2)
         {
             return !(t1 == t2);
+        }
+
+
+        public static implicit operator string(Tinta tinta)
+        {
+            return tinta.Mostrar();
         }
         #endregion
 
