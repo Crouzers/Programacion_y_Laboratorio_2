@@ -59,6 +59,27 @@ namespace Objects
             return ret;
         }
 
+        public bool Pintar(int gasto, out string dibujo)
+        {
+            int i;
+            bool retorno = false;
+            dibujo = "";
+            if (this.GetTinta() - gasto > 0)
+            {
+                for (i = 0; i < gasto; i++)
+                {
+                    dibujo += "*";
+                    retorno = true;
+                }
+            }
+            else
+            {
+                dibujo = "No hay tinta suficiente!!";
+                retorno = false;
+            }
+            return retorno;
+        }
+
 
         #endregion
 
