@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entidades07_08
 {
-        class Paleta
+        public class Paleta
         {
             #region Atributos
             private Tempera[] _colores;
@@ -125,6 +125,33 @@ namespace Entidades07_08
                 }
                 return p;
             }
+
+        public static Paleta operator -(Paleta p, Tempera t)
+        {
+            int indice = -1;
+            int aux1 = 0;
+            int aux2 = 0;
+
+            if (p == t)
+            {
+                indice = p.ObtenerIndice(t);
+                aux1 = (sbyte)p._colores[indice];
+                aux2 = (sbyte)t;
+                if(aux1-aux2 <=0)
+                {
+                    p._colores[indice] = null;
+
+                }
+                else
+                {
+                    p._colores[indice] += ((sbyte)(aux2 * -1));
+
+                }
+            }
+
+
+            return p;
+        }
             #endregion
         }
     

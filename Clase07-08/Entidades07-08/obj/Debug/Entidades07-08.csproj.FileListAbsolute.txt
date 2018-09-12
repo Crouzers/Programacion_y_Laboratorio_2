@@ -1,0 +1,6 @@
+D:\##BUSTAMANTE\Programacion_y_Laboratorio_2\Clase07-08\Entidades07-08\bin\Debug\Entidades07-08.dll
+D:\##BUSTAMANTE\Programacion_y_Laboratorio_2\Clase07-08\Entidades07-08\bin\Debug\Entidades07-08.pdb
+D:\##BUSTAMANTE\Programacion_y_Laboratorio_2\Clase07-08\Entidades07-08\obj\Debug\Entidades07-08.csprojAssemblyReference.cache
+D:\##BUSTAMANTE\Programacion_y_Laboratorio_2\Clase07-08\Entidades07-08\obj\Debug\Entidades07-08.csproj.CoreCompileInputs.cache
+D:\##BUSTAMANTE\Programacion_y_Laboratorio_2\Clase07-08\Entidades07-08\obj\Debug\Entidades07-08.dll
+D:\##BUSTAMANTE\Programacion_y_Laboratorio_2\Clase07-08\Entidades07-08\obj\Debug\Entidades07-08.pdb
