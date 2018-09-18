@@ -45,8 +45,13 @@ namespace TestWFClase08_
         private void button1_Click(object sender, EventArgs e)
         {
             FrmTempera frm = new FrmTempera();
-            frm.ShowDialog();
-            this._miPaleta += frm.MiTempera;
+            DialogResult rta = frm.ShowDialog();
+            if (rta == DialogResult.OK)
+            {
+                this._miPaleta += frm.MiTempera;
+                this.textBox1.Text = (string)this._miPaleta;
+
+            }
         }
 
         private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
@@ -56,7 +61,8 @@ namespace TestWFClase08_
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            //this.textBox1.Text;
+            
+            
         }
     }
 }

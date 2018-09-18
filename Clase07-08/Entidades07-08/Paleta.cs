@@ -29,11 +29,16 @@ namespace Entidades07_08
             #region Metodos
             private string Mostrar()
             {
-                string retorno = "Cantidad maxima de elementos: " + this._cantMaximaelementos + "\n\nColores utilizados en la paleta:\n ";
+                string retorno = "Cantidad maxima de elementos: " + this._cantMaximaelementos + "\r\nColores utilizados en la paleta\n ";
                 string cadenaAux = "";
+                string cadenaAux2 = ""; 
                 foreach (Tempera temperas in this._colores)
                 {
-                    cadenaAux += temperas;
+                if (!(object.Equals(temperas, null)))
+                {
+                    cadenaAux2 = temperas;
+                    cadenaAux += cadenaAux2;
+                }
                 }
                 retorno += cadenaAux;
                 return retorno;
@@ -45,7 +50,7 @@ namespace Entidades07_08
                 int indice = -1;
                 for (i = 0; i < this._cantMaximaelementos; i++)
                 {
-                    if (this._colores[i] == null)
+                    if (this._colores.GetValue(i) == null)
                     {
                         indice = i;
                         break;
@@ -81,27 +86,31 @@ namespace Entidades07_08
             }
 
             public static bool operator ==(Paleta p, Tempera t)
-            {
+        {
 
-                foreach (Tempera item in p._colores)
+            //foreach (Tempera item in p._colores)
+            //{
+            //    if (!(Object.Equals(item, null)) && t == item)
+            //    {
+            //        return true;
+            //    }
+            //}
+            //return false;
+
+            bool flag = false;
+            for (int i = 0; i < p._cantMaximaelementos; i++)
+            {
+                if (p._colores.GetValue(i) != null)
                 {
-                    if (!(Object.Equals(item, null)) && t == item)
+                    if (p._colores[i] == t)
                     {
-                        return true;
+                        flag =true;
                     }
                 }
-                return false;
-                /*for (int i = 0; i < p._cantMaximaelementos; i++)
-                {
-                    if (p._colores.GetValue(i)!=null)
-                     {
-                         if (p._colores[i]==t)
-                          {
-                               return true;
-                          }
-                    }
-                    */
+
             }
+            return flag;
+        }
 
             public static bool operator !=(Paleta p, Tempera t)
             {
@@ -126,7 +135,7 @@ namespace Entidades07_08
                 return p;
             }
 
-        public static Paleta operator -(Paleta p, Tempera t)
+            public static Paleta operator -(Paleta p, Tempera t)
         {
             int indice = -1;
             int aux1 = 0;

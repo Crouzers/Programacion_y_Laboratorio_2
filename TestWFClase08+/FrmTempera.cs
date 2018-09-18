@@ -34,14 +34,16 @@ namespace TestWFClase08_
             this.button1.Text = "Aceptar";
             this.button2.Text = "Cancelar";
 
+
             foreach (ConsoleColor color in Enum.GetValues(typeof(ConsoleColor)))
             {
                 this.comboBox1.Items.Add(color);
             }
-
-            this.comboBox1.SelectedItem = ConsoleColor.DarkYellow;
+            this.comboBox1.Items.Add("Seleccione uno");
+            this.comboBox1.SelectedItem = "Seleccione uno";
             this.comboBox1.DropDownStyle = ComboBoxStyle.DropDownList;
             
+
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -57,6 +59,13 @@ namespace TestWFClase08_
         private void button1_Click(object sender, EventArgs e)
         {
             this.t_miTempera = new Tempera(sbyte.Parse(this.textBox2.Text), (ConsoleColor)this.comboBox1.SelectedItem, this.textBox1.Text);
+            this.DialogResult = DialogResult.OK;
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }
