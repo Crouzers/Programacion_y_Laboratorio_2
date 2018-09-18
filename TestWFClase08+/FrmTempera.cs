@@ -46,6 +46,30 @@ namespace TestWFClase08_
 
         }
 
+        public FrmTempera(ConsoleColor color,string marca,string cantidad) : this()
+        {
+            InitializeComponent();
+            this.label1.Text = "Color";
+            this.label2.Text = "Marca";
+            this.label3.Text = "Cantidad";
+
+            this.button1.Text = "Aceptar";
+            this.button2.Text = "Cancelar";
+
+
+            foreach (ConsoleColor colorl in Enum.GetValues(typeof(ConsoleColor)))
+            {
+                this.comboBox1.Items.Add(colorl);
+            }
+            this.comboBox1.Items.Add("Seleccione uno");
+            this.comboBox1.SelectedItem = color;
+            this.comboBox1.DropDownStyle = ComboBoxStyle.DropDownList;
+
+            this.textBox1.Text = (string)marca;
+            this.textBox2.Text = (string)cantidad;
+
+        }
+
         private void label1_Click(object sender, EventArgs e)
         {
 
@@ -67,5 +91,7 @@ namespace TestWFClase08_
         {
             this.Close();
         }
+
+        
     }
 }

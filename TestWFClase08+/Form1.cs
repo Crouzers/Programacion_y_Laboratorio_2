@@ -82,6 +82,10 @@ namespace TestWFClase08_
             text += " " + index.ToString();
             MessageBox.Show(text);
 
+            FrmTempera frmMinus = new FrmTempera();
+            DialogResult rta = frmMinus.ShowDialog();
+
+
         }
     }
 }
