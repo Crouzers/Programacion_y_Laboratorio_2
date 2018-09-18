@@ -64,5 +64,24 @@ namespace TestWFClase08_
             
             
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            string text = this.textBox1.SelectedText;
+            int index=0;
+
+            foreach (string item in this.textBox1.Lines)
+            {
+                if (text == item)
+                {
+                    break;
+                }
+                index++;
+            }
+            index = (index - 2) / 2;
+            text += " " + index.ToString();
+            MessageBox.Show(text);
+
+        }
     }
 }
