@@ -1,0 +1,6 @@
+D:\##Bustamante\Programacion_y_Laboratorio_2\Entidades_Indexadas\bin\Debug\Entidades_Indexadas.dll
+D:\##Bustamante\Programacion_y_Laboratorio_2\Entidades_Indexadas\bin\Debug\Entidades_Indexadas.pdb
+D:\##Bustamante\Programacion_y_Laboratorio_2\Entidades_Indexadas\obj\Debug\Entidades_Indexadas.csprojAssemblyReference.cache
+D:\##Bustamante\Programacion_y_Laboratorio_2\Entidades_Indexadas\obj\Debug\Entidades_Indexadas.csproj.CoreCompileInputs.cache
+D:\##Bustamante\Programacion_y_Laboratorio_2\Entidades_Indexadas\obj\Debug\Entidades_Indexadas.dll
+D:\##Bustamante\Programacion_y_Laboratorio_2\Entidades_Indexadas\obj\Debug\Entidades_Indexadas.pdb

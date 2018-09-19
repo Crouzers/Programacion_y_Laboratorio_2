@@ -1,0 +1,14 @@
+D:\##Bustamante\Programacion_y_Laboratorio_2\TestWFClase09\bin\Debug\TestWFClase09.exe.config
+D:\##Bustamante\Programacion_y_Laboratorio_2\TestWFClase09\bin\Debug\TestWFClase09.exe
+D:\##Bustamante\Programacion_y_Laboratorio_2\TestWFClase09\bin\Debug\TestWFClase09.pdb
+D:\##Bustamante\Programacion_y_Laboratorio_2\TestWFClase09\bin\Debug\Entidades_Indexadas.dll
+D:\##Bustamante\Programacion_y_Laboratorio_2\TestWFClase09\bin\Debug\Entidades_Indexadas.pdb
+D:\##Bustamante\Programacion_y_Laboratorio_2\TestWFClase09\obj\Debug\TestWFClase09.csprojAssemblyReference.cache
+D:\##Bustamante\Programacion_y_Laboratorio_2\TestWFClase09\obj\Debug\TestWFClase09.Form1.resources
+D:\##Bustamante\Programacion_y_Laboratorio_2\TestWFClase09\obj\Debug\TestWFClase09.frmTempera.resources
+D:\##Bustamante\Programacion_y_Laboratorio_2\TestWFClase09\obj\Debug\TestWFClase09.Properties.Resources.resources
+D:\##Bustamante\Programacion_y_Laboratorio_2\TestWFClase09\obj\Debug\TestWFClase09.csproj.GenerateResource.cache
+D:\##Bustamante\Programacion_y_Laboratorio_2\TestWFClase09\obj\Debug\TestWFClase09.csproj.CoreCompileInputs.cache
+D:\##Bustamante\Programacion_y_Laboratorio_2\TestWFClase09\obj\Debug\TestWFClase09.csproj.CopyComplete
+D:\##Bustamante\Programacion_y_Laboratorio_2\TestWFClase09\obj\Debug\TestWFClase09.exe
+D:\##Bustamante\Programacion_y_Laboratorio_2\TestWFClase09\obj\Debug\TestWFClase09.pdb
